@@ -8,5 +8,6 @@ namespace JsonToObject
 {
     public class Class1
     {
+
     }
 }
